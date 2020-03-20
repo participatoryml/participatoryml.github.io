@@ -1,10 +1,10 @@
 ---
 layout: landing
 title: Participatory Approaches to Machine Learning
-subtitle: ICML 2020 Workshop
+subtitle: ICML 2020 Workshop (July 17 or 18)
 ---
 
-**Call for Contributions:** TBD
+## Overview
 
 The designers of a machine learning (ML) system typically have far more
 power over the system than the individuals who are ultimately impacted
@@ -41,7 +41,7 @@ design, and deployment of ML systems, we wish to consider *a new set of
 technical formulations for the ML community* on the subject of more
 democratic, cooperative, and participatory ML systems.
 
-## Topics
+### Topics
 
 We hope to encourage progress in the following topics:
 
@@ -85,11 +85,31 @@ We hope to encourage progress in the following topics:
 -   **Tools that support community and worker organization** (Matias and
     Mou 2018; Irani and Silberman 2013; Salehi et al. 2015).
 
+## The Coronavirus Situation
+
+Being collocated with ICML, the workshop is planned to take place in Vienna, Austria, in July 2020. Due to the SARS-CoV-2/COVID-19 pandemic, it is likely that the conference and the workshop will be held either virtually, or be postponed. See [the official ICML website](https://icml.cc/) for any news.
+
+## Call for Papers
+
+The workshop will include contributed papers. All accepted papers will be allocated either a poster presentation, or a 25-minute talk slot. We will publish non-archival proceedings.
+
+We invite submissions of full papers, works-in-progress, and position papers. We expect that all papers introduce novel ideas or results: we will not accept works that have already been published.
+
+Papers should have up to 4 pages (excluding references, acknowledgements, or appendices), and be formatted using the ICML submission template. Papers should be anonymized.
+
+Submission website: TBD
+
+## Timeline
+
+* Submission deadline: **May 21, 2020, AoE**
+* Notification: June 12, 2020
+* Workshop: July 17 or 18, 2020
+
 ## Organizing Committee
 
-* Angela Zhou, Cornell
-* David Madras, University of Toronto
-* Inioluwa Deborah Raji, AI Now Institute
-* Bogdan Kulynych, EPFL
-* Smitha Milli, UC Berkeley
-* Richard Zemel, University of Toronto
+* [Angela Zhou](https://people.orie.cornell.edu/az434/), Cornell
+* [David Madras](http://www.cs.toronto.edu/~madras/), University of Toronto
+* [Inioluwa Deborah Raji](https://ainowinstitute.org/people/deborah-raji.html), AI Now Institute
+* [Bogdan Kulynych](https://bogdankulynych.me), EPFL
+* [Smitha Milli](http://smithamilli.com), UC Berkeley
+* [Richard Zemel](https://www.cs.toronto.edu/~zemel), University of Toronto

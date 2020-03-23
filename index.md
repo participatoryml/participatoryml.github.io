@@ -4,6 +4,10 @@ title: Participatory Approaches to Machine Learning
 subtitle: ICML 2020 Workshop (July 17 or 18)
 ---
 
+Because of the SARS-CoV-2/COVID-19 pandemic, the workshop will take place
+virtually. We are waiting for more details on the exact format based on the
+[ICML](https://icml.cc) conference guidelines.
+
 ## Overview
 
 The designers of a machine learning (ML) system typically have far more
@@ -85,19 +89,29 @@ We hope to encourage progress in the following topics:
 -   **Tools that support community and worker organization** (Matias and
     Mou 2018; Irani and Silberman 2013; Salehi et al. 2015).
 
-## The Coronavirus Situation
-
-Being collocated with ICML, the workshop is planned to take place in Vienna, Austria, in July 2020. Due to the SARS-CoV-2/COVID-19 pandemic, it is likely that the conference and the workshop will be held either virtually, or be postponed. See [the official ICML website](https://icml.cc/) for any news.
-
 ## Call for Papers
 
-The workshop will include contributed papers. All accepted papers will be allocated either a poster presentation, or a 25-minute talk slot. We will publish non-archival proceedings.
+The workshop will include contributed papers. All accepted papers will be
+allocated either a virtual poster presentation, or a virtual talk slot. We will
+not publish proceedings, but will optionally link the papers and talk recordings
+on this page.
 
-We invite submissions of full papers, works-in-progress, and position papers. We expect that all papers introduce novel ideas or results: we will not accept works that have already been published.
+We invite submissions in two tracks:
 
-Papers should have up to 4 pages (excluding references, acknowledgements, or appendices), and be formatted using the ICML submission template. Papers should be anonymized.
+* **Research Track.** Full papers, works-in-progress, and position papers. We
+  expect that these submissions introduce novel ideas or results.
 
-Submission website: TBD
+  The papers should have up to 4 pages (excluding references, acknowledgements,
+  or appendices), and be formatted using the ICML submission template. Papers
+  should be anonymized.
+
+* **Encore Track.** Papers that have already been accepted at other venues.
+
+  There are no format requirements for this track. The papers should be accepted
+  at another recognized academic conference, and be submitted by one of the
+  paper's authors.
+
+Submission website: **TBD**
 
 ## Timeline
 

@@ -4,10 +4,6 @@ title: Participatory Approaches to Machine Learning
 subtitle: ICML 2020 Workshop (July 17 or 18)
 ---
 
-Because of the SARS-CoV-2/COVID-19 pandemic, the workshop will take place
-virtually. We are waiting for more details on the exact format based on the
-[ICML](https://icml.cc) conference guidelines.
-
 ## Overview
 
 The designers of a machine learning (ML) system typically have far more
@@ -28,6 +24,14 @@ shape the system and its decisions. We thus invite ML researchers to
 consider approaches for designing more *democratic, cooperative, and
 participatory ML systems.*
 
+The fields of algorithmic fairness and human-centered ML often focus on
+*centralized* solutions, lending increasing power to system designers and
+deployers, and less to users and affected populations. In response to the
+growing social science critique of the power imbalance present in the research,
+design, and deployment of ML systems, we wish to consider *a new set of
+technical formulations for the ML community* on the subject of more democratic,
+cooperative, and participatory ML systems.
+
 Whereas several past workshops have been broadly concerned with societal
 issues of AI deployment, this workshop has a clearer technical goal: to
 address the power differentials embedded in ML systems. By involving
@@ -35,19 +39,10 @@ affected populations in shaping the goals of the overall system, we hope
 to move beyond just tools for enabling human participation to a redesign
 of power dynamics.
 
-A recent interest in algorithmic fairness and human-centred ML indicates
-a strong interest among ML researchers in problems of fairness, equity,
-and justice. However, these fields often focus on *centralized*
-solutions, lending increasing power to system designers and deployers,
-and less to users and affected populations. In response to the growing
-social science critique of the power imbalance present in the research,
-design, and deployment of ML systems, we wish to consider *a new set of
-technical formulations for the ML community* on the subject of more
-democratic, cooperative, and participatory ML systems.
-
 ### Topics
 
-We hope to encourage progress in the following topics:
+We invite work that makes progress on the workshop themes, including but not
+limited to:
 
 -   **Recourse and reachability**: Creating systems that ensure the user
     has the potential to adapt their predictions or recommendations
@@ -88,6 +83,12 @@ We hope to encourage progress in the following topics:
 
 -   **Tools that support community and worker organization** (Matias and
     Mou 2018; Irani and Silberman 2013; Salehi et al. 2015).
+
+## Fully Virtual Format
+
+Because of the SARS-CoV-2/COVID-19 pandemic, the workshop will take place
+virtually. We are waiting for more details on the exact format based on the
+[ICML conference guidelines](https://icml.cc).
 
 ## Call for Papers
 

@@ -46,43 +46,55 @@ limited to:
 
 -   **Recourse and reachability**: Creating systems that ensure the user
     has the potential to adapt their predictions or recommendations
-    (Ustun, Spangher, and Liu 2019; Dean, Rich, and Recht 2020).
+    ([Ustun, Spangher, and Liu 2019](https://arxiv.org/abs/1809.06514);
+    [Dean, Rich, and Recht 2020](https://arxiv.org/abs/1912.10068)).
 
 -   **Richer interactive ML:** Incorporating richer user feedback into
     ML systems. Limitations of current methods in fully capturing a
-    user’s ‘preferences’ (Schnabel, Bennett, and Joachims 2018; Yang et
-    al. 2019)
+    user’s ‘preferences’
+    ([Schnabel, Bennett, and Joachims 2018](https://arxiv.org/abs/1802.07578);
+    [Yang et al. 2019](http://ceur-ws.org/Vol-2327/IUI19WS-ExSS2019-9.pdf))
 
 -   **Mechanism design or computational social choice and learning**:
     designs that incorporate preference elicitation in allocative ML
     systems, such as adaptive experimentation or learning-based
-    algorithmic governance (Narita 2019; M. K. Lee et al. 2019; Kahng et
-    al. 2019).
+    algorithmic governance
+    ([Narita 2019](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3094905);
+    [M. K. Lee et al. 2019](https://www.cs.cmu.edu/~akahng/papers/webuildai.pdf));
+    [Kahng et al. 2019](http://proceedings.mlr.press/v97/kahng19a.html))
 
 -   **Collective and participatory design applied to community
     involvement in ML:** Qualitative and quantitative methods and
     frameworks aimed at giving a voice to communities affected by ML
     systems. Tools for collective training processes and collective
-    design of ML systems (Katell et al. 2020; Brown et al. 2019;
-    Halfaker and Geiger 2019; Patton et al. 2020).
+    design of ML systems
+    ([Katell et al. 2020](https://people.csail.mit.edu/pkrafft/papers/critplat-toolkit-lessons.pdf);
+    [Brown et al. 2019](https://www.andrew.cmu.edu/user/achoulde/files/accountability_final_balanced.pdf);
+    [Halfaker and Geiger 2019](https://arxiv.org/abs/1909.05189);
+    [Patton et al. 2020](https://dl.acm.org/doi/10.1145/3375627.3375841)).
 
 -   **Deferral and/or abstention**: Classification frameworks which
     incorporate deferral to humans, or at least a non-classification
-    outcome. (Madras, Pitassi, and Zemel 2018; El-Yaniv and
-    Wiener 2010).
+    outcome.
+    ([Madras, Pitassi, and Zemel 2018](https://arxiv.org/abs/1711.06664);
+    [El-Yaniv and Wiener 2010](http://jmlr.csail.mit.edu/papers/volume11/el-yaniv10a/el-yaniv10a.pdf)).
 
 -   **Documentation & audit methods:** Work which is intended to inform
     and engage users in model design, development or deployment
-    processes and its limitations (Mitchell et al. 2019; Ali et
-    al. 2019).
+    processes and its limitations
+    ([Mitchell et al. 2019](https://arxiv.org/abs/1810.03993);
+    [Ali & Sapieżyński et al. 2019](https://arxiv.org/abs/1904.02095)).
 
 -   **Contestation:** Technological methods and tools for
     analyzing/protesting/contesting the outcomes of ML systems in the
-    absence of centralized cooperation  (Kulynych et al. 2020; Nasr and
-    Tschantz 2020; Ali et al. 2019).
+    absence of centralized cooperation 
+    ([Kulynych & Overdorf et al. 2020](https://arxiv.org/abs/1806.02711);
+    [Ali & Sapieżyński et al. 2019](https://arxiv.org/abs/1904.02095)).
 
--   **Tools that support community and worker organization** (Matias and
-    Mou 2018; Irani and Silberman 2013; Salehi et al. 2015).
+-   **Tools that support community and worker organization**
+    ([Matias and Mou 2018](https://natematias.com/media/Community_Led_Experiments-CHI_2018.pdf);
+    [Irani and Silberman 2013](http://crowdsourcing-class.org/readings/downloads/ethics/turkopticon.pdf);
+    [Salehi et al. 2015](https://hci.stanford.edu/publications/2015/dynamo/DynamoCHI2015.pdf)).
 
 ## Fully Virtual Format
 
@@ -120,8 +132,7 @@ Submission website: **TBD**
 * Workshop: July 17 or 18, 2020
 
 ## Organizing Committee
-
-* [Angela Zhou](https://people.orie.cornell.edu/az434/), Cornell
+* [Angela Zhou](https://people.orie.cornell.edu/az434/), Cornell University
 * [David Madras](http://www.cs.toronto.edu/~madras/), University of Toronto
 * [Inioluwa Deborah Raji](https://ainowinstitute.org/people/deborah-raji.html), AI Now Institute
 * [Bogdan Kulynych](https://bogdankulynych.me), EPFL

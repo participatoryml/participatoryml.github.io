@@ -86,9 +86,8 @@ limited to:
 
 ## Fully Virtual Format
 
-Because of the SARS-CoV-2/COVID-19 pandemic, the workshop will take place
-virtually. We are waiting for more details on the exact format based on the
-[ICML conference guidelines](https://icml.cc).
+Because of the SARS-CoV-2/COVID-19 pandemic, the workshop will take place virtually.
+The exact format will be based on the [ICML conference guidelines](https://icml.cc).
 
 ## Call for Papers
 
@@ -128,3 +127,9 @@ Submission website: **TBD**
 * [Bogdan Kulynych](https://bogdankulynych.me), EPFL
 * [Smitha Milli](http://smithamilli.com), UC Berkeley
 * [Richard Zemel](https://www.cs.toronto.edu/~zemel), University of Toronto
+
+## Sponsor
+
+We are grateful to [Open Philanthropy Project](https://www.openphilanthropy.org/) for providing
+funding assistance for the workshop.  We plan to use the funding to cover workshop registration fees
+to participants that need it.

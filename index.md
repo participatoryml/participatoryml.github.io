@@ -27,7 +27,7 @@ participatory ML systems.*
 The fields of algorithmic fairness and human-centered ML often focus on
 *centralized* solutions, lending increasing power to system designers and
 deployers, and less to users and affected populations. In response to the
-growing social science critique of the power imbalance present in the research,
+growing social-science critique of the power imbalance present in the research,
 design, and deployment of ML systems, we wish to consider *a new set of
 technical formulations for the ML community* on the subject of more democratic,
 cooperative, and participatory ML systems.
@@ -141,6 +141,6 @@ Submission website: **TBD**
 
 ## Sponsor
 
-We are grateful to [Open Philanthropy Project](https://www.openphilanthropy.org/) for providing
-funding assistance for the workshop.  We plan to use the funding to cover workshop registration fees
-to participants that need it.
+We are grateful to [Open Philanthropy Project](https://www.openphilanthropy.org/)
+for providing funding assistance for the workshop.  We plan to use the funding
+    to cover participants' workshop registration fees.

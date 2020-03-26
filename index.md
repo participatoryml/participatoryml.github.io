@@ -120,8 +120,8 @@ We invite submissions in two tracks:
 * **Encore Track.** Papers that have already been accepted at other venues.
 
   There are no format requirements for this track. The papers should be accepted
-  at another recognized academic conference, and be submitted by one of the
-  paper's authors.
+  at another recognized archival conference or journal, and be submitted by one
+  of the paper's authors.
 
 Submission website: **TBD**
 

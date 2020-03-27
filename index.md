@@ -136,6 +136,6 @@ Submission website: **TBD**
 
 ## Sponsor
 
-We are grateful to [Open Philanthropy Project](https://www.openphilanthropy.org/)
+We are grateful to [Open Philanthropy](https://www.openphilanthropy.org/)
 for providing funding assistance for the workshop.  We plan to use the funding
-    to cover participants' workshop registration fees.
+to cover participants' workshop registration fees.

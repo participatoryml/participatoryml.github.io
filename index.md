@@ -4,6 +4,9 @@ title: Participatory Approaches to Machine Learning
 subtitle: ICML 2020 Workshop (July 17 or 18)
 ---
 
+Because of the SARS-CoV-2/COVID-19 pandemic, the workshop will take place virtually.
+The exact format will be based on the [ICML conference guidelines](https://icml.cc).
+
 ## Overview
 
 The designers of a machine learning (ML) system typically have far more
@@ -95,11 +98,6 @@ limited to:
     ([Matias and Mou 2018](https://natematias.com/media/Community_Led_Experiments-CHI_2018.pdf);
     [Irani and Silberman 2013](http://crowdsourcing-class.org/readings/downloads/ethics/turkopticon.pdf);
     [Salehi et al. 2015](https://hci.stanford.edu/publications/2015/dynamo/DynamoCHI2015.pdf)).
-
-## Fully Virtual Format
-
-Because of the SARS-CoV-2/COVID-19 pandemic, the workshop will take place virtually.
-The exact format will be based on the [ICML conference guidelines](https://icml.cc).
 
 ## Call for Papers
 

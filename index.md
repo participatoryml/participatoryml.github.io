@@ -28,7 +28,7 @@ Our workshop aims to explore methods that, by design, enable and encourage the
 perspectives of those impacted by an ML system to shape the system and its
 decisions. By involving affected populations in shaping the goals of the overall
 system, we hope to move beyond just tools for enabling human participation and
-progress towards a redesign of power dynamics in AI systems.
+progress towards a redesign of power dynamics in ML systems.
 
 ### Topics
 
@@ -86,6 +86,15 @@ limited to:
     ([Matias and Mou 2018](https://natematias.com/media/Community_Led_Experiments-CHI_2018.pdf);
     [Irani and Silberman 2013](http://crowdsourcing-class.org/readings/downloads/ethics/turkopticon.pdf);
     [Salehi et al. 2015](https://hci.stanford.edu/publications/2015/dynamo/DynamoCHI2015.pdf)).
+
+## Invited Speakers
+
+* [Nicolas Papernot](https://www.papernot.fr/), University of Toronto/Vector Institute
+* [Alexandra Chouldechova](https://www.andrew.cmu.edu/user/achoulde/), Carnegie Mellon University
+* [Meredith Whittaker](https://ainowinstitute.org/people/meredith-whittaker.html), AI Now Institute
+* [Berk Ustun](https://www.berkustun.com/), Harvard University
+* [Aleksandra Korolova](https://www.korolova.com/), University of Southern California
+* [Piotr Sapieżyński](https://www.sapiezynski.com/), Northeastern University
 
 ## Call for Papers
 

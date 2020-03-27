@@ -60,7 +60,7 @@ limited to:
     systems, such as adaptive experimentation or learning-based
     algorithmic governance
     ([Narita 2019](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3094905);
-    [M. K. Lee et al. 2019](https://www.cs.cmu.edu/~akahng/papers/webuildai.pdf));
+    [M. K. Lee et al. 2019](https://www.cs.cmu.edu/~akahng/papers/webuildai.pdf);
     [Kahng et al. 2019](http://proceedings.mlr.press/v97/kahng19a.html))
 
 -   **Collective and participatory design applied to community

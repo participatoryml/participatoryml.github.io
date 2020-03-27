@@ -9,38 +9,26 @@ The exact format will be based on the [ICML conference guidelines](https://icml.
 
 ## Overview
 
-The designers of a machine learning (ML) system typically have far more
-power over the system than the individuals who are ultimately impacted
-by the system and its decisions. Recommender platforms shape the users’
-preferences; the individuals classified by a model often do not have
-means to contest a decision; and the data required by ML systems
-necessitates that the privacy of many yield to the design choices of a
-few.
-
-Many sub-fields of ML are concerned with incorporating user feedback and
-preferences, including human-in-the-loop learning, mechanism design, and
-recommender systems. However, these sub-fields usually involve humans
-with the goal of better optimizing a centrally imposed objective. In
-response, our workshop aims to explore methods that, by design, enable
-and encourage the perspectives of those impacted by an ML system to
-shape the system and its decisions. We thus invite ML researchers to
-consider approaches for designing more *democratic, cooperative, and
-participatory ML systems.*
+The designers of a machine learning (ML) system typically have far more power
+over the system than the individuals who are ultimately impacted by the system
+and its decisions. Recommender platforms shape the users' preferences; the
+individuals classified by a model often do not have means to contest a decision;
+and the data required by supervised ML systems necessitates that the privacy and
+labour of many yield to the design choices of a few.
 
 The fields of algorithmic fairness and human-centered ML often focus on
-*centralized* solutions, lending increasing power to system designers and
-deployers, and less to users and affected populations. In response to the
+centralized solutions, lending increasing power to system designers and
+operators, and less to users and affected populations. In response to the
 growing social-science critique of the power imbalance present in the research,
-design, and deployment of ML systems, we wish to consider *a new set of
-technical formulations for the ML community* on the subject of more democratic,
+design, and deployment of ML systems, we wish to consider a new set of technical
+formulations for the ML community on the subject of more democratic,
 cooperative, and participatory ML systems.
 
-Whereas several past workshops have been broadly concerned with societal
-issues of AI deployment, this workshop has a clearer technical goal: to
-address the power differentials embedded in ML systems. By involving
-affected populations in shaping the goals of the overall system, we hope
-to move beyond just tools for enabling human participation to a redesign
-of power dynamics.
+Our workshop aims to explore methods that, by design, enable and encourage the
+perspectives of those impacted by an ML system to shape the system and its
+decisions. By involving affected populations in shaping the goals of the overall
+system, we hope to move beyond just tools for enabling human participation and
+progress towards a redesign of power dynamics in AI systems.
 
 ### Topics
 

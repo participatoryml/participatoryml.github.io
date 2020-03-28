@@ -118,7 +118,7 @@ We invite submissions in two tracks:
   at another recognized archival conference or journal, and be submitted by one
   of the paper's authors.
 
-Submission website: **TBD**
+Submission website: [CMT](https://cmt3.research.microsoft.com/PAML2020)
 
 For any questions, please send us an email to `participatory-ml-organizers` at `lists.mayfirst.org`
 

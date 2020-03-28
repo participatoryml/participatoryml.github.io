@@ -120,6 +120,8 @@ We invite submissions in two tracks:
 
 Submission website: **TBD**
 
+For any questions, please send us an email to `participatory-ml-organizers` at `lists.mayfirst.org`
+
 ## Timeline
 
 * Submission deadline: **May 21, 2020, AoE**

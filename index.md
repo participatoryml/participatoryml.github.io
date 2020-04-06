@@ -108,9 +108,10 @@ We invite submissions in two tracks:
 * **Research Track.** Full papers, works-in-progress, and position papers. We
   expect that these submissions introduce novel ideas or results.
 
-  The papers should have up to 4 pages (excluding references, acknowledgements,
-  or appendices), and be formatted using the ICML submission template. Papers
-  should be anonymized.
+  The papers should have up to 4 pages (excluding references, acknowledgements, or appendices), and
+  be formatted using the [ICML submission
+  template](https://media.icml.cc/Conferences/ICML2020/Styles/icml2020_style.zip). Papers should be
+  anonymized.
 
 * **Encore Track.** Papers that have already been accepted at other venues.
 

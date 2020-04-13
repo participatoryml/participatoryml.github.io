@@ -141,4 +141,4 @@ For any questions, please send us an email to `participatory-ml-organizers` at `
 
 We are grateful to [Open Philanthropy](https://www.openphilanthropy.org/)
 for providing funding assistance for the workshop.  We plan to use the funding
-to cover participants' workshop registration fees.
+to cover workshop registration fees for participants who need it.

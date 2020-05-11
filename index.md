@@ -125,8 +125,10 @@ For any questions, please send us an email to `participatory-ml-organizers` at `
 
 ## Timeline
 
-* Submission deadline: **May 21, 2020, AoE**
-* Notification: June 12, 2020
+_Update:_ We decided to shift our submission deadline in response to the NeurIPS deadline change.
+
+* Submission deadline: **June 15, 2020, AoE** / ~~May 21, 2020~~
+* Notification: **July 1, 2020** / ~~June 12, 2020~~
 * Workshop: July 17 or 18, 2020
 
 ## Organizing Committee

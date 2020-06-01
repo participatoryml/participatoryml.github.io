@@ -74,7 +74,8 @@ limited to:
     and engage users in model design, development or deployment
     processes and its limitations
     ([Mitchell et al. 2019](https://arxiv.org/abs/1810.03993);
-    [Ali & Sapieżyński et al. 2019](https://arxiv.org/abs/1904.02095)).
+    [Ali & Sapieżyński et al. 2019](https://arxiv.org/abs/1904.02095),
+    [Buolamwini and Gebru 2018](http://proceedings.mlr.press/v81/buolamwini18a.html?mod=article_inline)).
 
 -   **Contestation:** Technological methods and tools for
     analyzing/protesting/contesting the outcomes of ML systems in the
@@ -86,6 +87,9 @@ limited to:
     ([Matias and Mou 2018](https://natematias.com/media/Community_Led_Experiments-CHI_2018.pdf);
     [Irani and Silberman 2013](http://crowdsourcing-class.org/readings/downloads/ethics/turkopticon.pdf);
     [Salehi et al. 2015](https://hci.stanford.edu/publications/2015/dynamo/DynamoCHI2015.pdf)).
+    
+-   **Analysis or audits of amplifiers of systemic injustice in decision systems** 
+    ([Arnold et al. 2020](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3580557); [Obermeyer et al 2019](https://science.sciencemag.org/content/366/6464/447); [Pierson et al 2020](https://www.nature.com/articles/s41562-020-0858-1)). 
 
 ## Invited Speakers
 

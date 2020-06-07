@@ -87,15 +87,16 @@ limited to:
     ([Matias and Mou 2018](https://natematias.com/media/Community_Led_Experiments-CHI_2018.pdf);
     [Irani and Silberman 2013](http://crowdsourcing-class.org/readings/downloads/ethics/turkopticon.pdf);
     [Salehi et al. 2015](https://hci.stanford.edu/publications/2015/dynamo/DynamoCHI2015.pdf)).
-    
--   **Analysis or audits of amplifiers of systemic injustice in decision systems** 
-    ([Arnold et al. 2020](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3580557); [Obermeyer et al 2019](https://science.sciencemag.org/content/366/6464/447); [Pierson et al 2020](https://www.nature.com/articles/s41562-020-0858-1)). 
+
+-   **Analysis or audits of amplifiers of systemic injustice in decision systems**
+    ([Arnold et al. 2020](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3580557); [Obermeyer et al 2019](https://science.sciencemag.org/content/366/6464/447); [Pierson et al 2020](https://www.nature.com/articles/s41562-020-0858-1)).
 
 ## Invited Speakers
 
 * [Nicolas Papernot](https://www.papernot.fr/), University of Toronto/Vector Institute
 * [Alexandra Chouldechova](https://www.andrew.cmu.edu/user/achoulde/), Carnegie Mellon University
-* [Tawana Petty](https://pacscenter.stanford.edu/person/tawana-petty/), Stanford University
+* [Tawana Petty](https://pacscenter.stanford.edu/person/tawana-petty/), Detroit Community Technology
+  Project
 * [Berk Ustun](https://www.berkustun.com/), Harvard University
 * [Aleksandra Korolova](https://www.korolova.com/), University of Southern California
 * [Piotr Sapieżyński](https://www.sapiezynski.com/), Northeastern University

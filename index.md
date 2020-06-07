@@ -74,9 +74,9 @@ limited to:
     and engage users in model design, development or deployment
     processes and its limitations
     ([Mitchell et al. 2019](https://arxiv.org/abs/1810.03993);
-    [Ali & Sapieżyński et al. 2019](https://arxiv.org/abs/1904.02095),
-    [Buolamwini and Gebru 2018](http://proceedings.mlr.press/v81/buolamwini18a.html?mod=article_inline)).
-    [Raji et al. 2020](https://arxiv.org/abs/2001.00973)
+    [Ali & Sapieżyński et al. 2019](https://arxiv.org/abs/1904.02095);
+    [Buolamwini and Gebru 2018](http://proceedings.mlr.press/v81/buolamwini18a.html?mod=article_inline);
+    [Raji et al. 2020](https://arxiv.org/abs/2001.00973)).
 
 -   **Contestation:** Technological methods and tools for
     analyzing/protesting/contesting the outcomes of ML systems in the

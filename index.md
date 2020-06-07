@@ -98,11 +98,12 @@ limited to:
 
 * [Nicolas Papernot](https://www.papernot.fr/), University of Toronto/Vector Institute
 * [Alexandra Chouldechova](https://www.andrew.cmu.edu/user/achoulde/), Carnegie Mellon University
-* [Tawana Petty](https://pacscenter.stanford.edu/person/tawana-petty/), Detroit Community Technology
-  Project
+* [Tawana Petty](https://pacscenter.stanford.edu/person/tawana-petty/), [Detroit Community Technology
+  Project](https://detroitcommunitytech.org/)
 * [Berk Ustun](https://www.berkustun.com/), Harvard University
 * [Aleksandra Korolova](https://www.korolova.com/), University of Southern California
 * [Piotr Sapieżyński](https://www.sapiezynski.com/), Northeastern University
+* [Jamelle Watson-Daniels](https://www.jamellewd.com), [Data for Black Lives](http://d4bl.org/)
 
 ## Call for Papers
 

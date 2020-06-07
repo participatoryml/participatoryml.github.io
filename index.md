@@ -74,7 +74,6 @@ limited to:
     and engage users in model design, development or deployment
     processes and its limitations
     ([Mitchell et al. 2019](https://arxiv.org/abs/1810.03993);
-    [Ali & Sapieżyński et al. 2019](https://arxiv.org/abs/1904.02095);
     [Buolamwini and Gebru 2018](http://proceedings.mlr.press/v81/buolamwini18a.html?mod=article_inline);
     [Raji et al. 2020](https://arxiv.org/abs/2001.00973)).
 
@@ -90,7 +89,10 @@ limited to:
     [Salehi et al. 2015](https://hci.stanford.edu/publications/2015/dynamo/DynamoCHI2015.pdf)).
 
 -   **Analysis or audits of amplifiers of systemic injustice in decision systems**
-    ([Arnold et al. 2020](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3580557); [Obermeyer et al 2019](https://science.sciencemag.org/content/366/6464/447); [Pierson et al 2020](https://www.nature.com/articles/s41562-020-0858-1)).
+    ([Arnold et al. 2020](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3580557);
+    [Obermeyer et al. 2019](https://science.sciencemag.org/content/366/6464/447);
+    [Pierson et al. 2020](https://www.nature.com/articles/s41562-020-0858-1);
+    [Ali & Sapieżyński et al. 2019](https://arxiv.org/abs/1904.02095));
 
 ## Invited Speakers
 

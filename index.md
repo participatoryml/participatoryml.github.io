@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Participatory Approaches to Machine Learning
-subtitle: ICML 2020 Workshop (July 17 or 18)
+subtitle: ICML 2020 Workshop (July 17)
 ---
 
 Because of the SARS-CoV-2/COVID-19 pandemic, the workshop will take place virtually.
@@ -135,8 +135,8 @@ For any questions, please send us an email to `participatory-ml-organizers` at `
 ## Timeline
 
 * Submission deadline: **June 22, 2020, AoE** / ~~June 15, 2020~~
-* Notification: **July 1, 2020** / ~~June 12, 2020~~
-* Workshop: July 17 or 18, 2020
+* Notification: **July 1, 2020**
+* Workshop: July 17, 2020
 
 ## Organizing Committee
 * [Angela Zhou](https://people.orie.cornell.edu/az434/), Cornell University

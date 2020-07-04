@@ -94,6 +94,52 @@ limited to:
     [Irani and Silberman 2013](http://crowdsourcing-class.org/readings/downloads/ethics/turkopticon.pdf);
     [Salehi et al. 2015](https://hci.stanford.edu/publications/2015/dynamo/DynamoCHI2015.pdf)).
 
+## Call for Participation
+We would like to experiment with breakout discussions to encourage group discussions around shared
+topics of interest. Please fill out our [this form](https://forms.gle/JSbGqznGjZRrv1Sd9) if you are
+interested in joining or organizing such a discussion.
+
+## Contributed Papers
+The contributed papers include both novel research papers as well as papers that have already been
+published in other venues (marked as "Encore").
+
+{% assign papers = site.data.papers_2020 %}
+
+### Qualitative frameworks, methods, and analyses
+
+{% assign cat_papers = papers | where: "category", "Qual" %}
+{% for paper in cat_papers %}
+{% include paper-box.html paper=paper %}
+{% endfor %}
+
+### Algorithmic approaches and quantitative methods
+
+{% assign cat_papers = papers | where: "category", "Quant" %}
+{% for paper in cat_papers %}
+{% include paper-box.html paper=paper %}
+{% endfor %}
+
+### Applications
+
+{% assign cat_papers = papers | where: "category", "Applications" %}
+{% for paper in cat_papers %}
+{% include paper-box.html paper=paper %}
+{% endfor %}
+
+### Critical examinations
+
+{% assign cat_papers = papers | where: "category", "Critical" %}
+{% for paper in cat_papers %}
+{% include paper-box.html paper=paper %}
+{% endfor %}
+
+### Policy
+
+{% assign cat_papers = papers | where: "category", "Policy" %}
+{% for paper in cat_papers %}
+{% include paper-box.html paper=paper %}
+{% endfor %}
+
 ## Invited Speakers
 
 * [Nicolas Papernot](https://www.papernot.fr/), University of Toronto/Vector Institute
@@ -110,7 +156,7 @@ limited to:
 The workshop will include contributed papers. All accepted papers will be
 allocated either a virtual poster presentation, or a virtual talk slot. We will
 not publish proceedings, but will optionally link the papers and talk recordings
-on this page.
+on the workshop website.
 
 We invite submissions in two tracks:
 
@@ -128,14 +174,14 @@ We invite submissions in two tracks:
   at another recognized archival conference or journal, and be submitted by one
   of the paper's authors.
 
-Submission website: [CMT](https://cmt3.research.microsoft.com/PAML2020)
+Submissions are currently closed.
 
 For any questions, please send us an email to `participatory-ml-organizers` at `lists.mayfirst.org`
 
 ## Timeline
 
-* Submission deadline: **June 22, 2020, AoE** / ~~June 15, 2020~~
-* Notification: **July 1, 2020**
+* Submission deadline: ~~**June 22, 2020, AoE**~~
+* Notification: ~~**July 1, 2020**~~
 * Workshop: July 17, 2020
 
 ## Organizing Committee

@@ -5,7 +5,7 @@ subtitle: ICML 2020 Workshop (July 17)
 ---
 
 Because of the SARS-CoV-2/COVID-19 pandemic, the workshop will take place virtually.
-The exact format will be based on the [ICML conference guidelines](https://icml.cc).
+The exact format will be based on the [ICML conference guidelines](https://icml.cc/Conferences/2020/VirtualICML).
 
 ## Overview
 

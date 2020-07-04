@@ -3,51 +3,97 @@
 ---
 @charset "utf-8";
 
-
-
-// Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$base-font-weight: 400;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
-
-$spacing-unit:     30px;
-
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
-
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
-
-// Width of the content area
-$content-width:    800px;
-
-$on-palm:          600px;
-$on-laptop:        800px;
-
-
-
-// Use media queries like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
-@mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
+body {
+    max-width: 860px;
+    width: 90%;
+    padding: 1em;
+    padding-top: 3em;
+    margin: 0 auto;
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 18px;
 }
 
+.subtitle {
+    margin-top: 0px;
+    font-weight: normal
+}
 
+h1 {
+    margin-bottom: 0px;
+}
 
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base",
-        "layout",
-        "syntax-highlighting"
-;
+.box {
+    padding: 1em;
+    margin-bottom: .5em;
+    // box-shadow: 0px 1px 10px rgba(41, 128, 185,0.75);
+    border: 1px solid;
+    border-color: rgba(41, 128, 185,0.6);
+    transition: box-shadow 0.15s ease-in-out;
+}
+
+.box:hover {
+    box-shadow: 0px 1px 10px rgba(41, 128, 185,0.2);
+}
+
+.box.encore {
+    border-color: rgba(0, 0, 0,0.1);
+    // box-shadow: 0px 1px 10px rgba(0,0,0,0.2);
+}
+
+.encore:hover {
+    box-shadow: 0px 1px 10px rgba(0,0,0,0.1);
+}
+
+.reject {
+    opacity: 50%;
+}
+
+.paper-title strong {
+    padding-right: .4em;
+}
+
+.paper-authors {
+    padding-top: 1em;
+    font-size: 66%;
+}
+
+.paper-links {
+    padding-top: 1em;
+}
+
+.tag {
+    display: inline-block;
+    padding: .2em .4em;
+    margin-right: .4em;
+    border-radius: 4px;
+    font-size: 66%;
+}
+
+.header-tag {
+    padding-left: 0px;
+}
+
+.paper-link-main,.paper-link-video {
+    color: #2160c4;
+    background: #e3ecfa;
+}
+
+.paper-link-poster {
+    color: #cc0f35;
+    background: #fde0e6;
+}
+
+.position-paper-tag {
+    color: #947600;
+    // background: #fff8de;
+}
+
+.case-study-tag {
+    color: #257942;
+    // background: #e6f7ec;
+}
+
+.encore-tag {
+    color: #555;
+    // background: #eee;
+}

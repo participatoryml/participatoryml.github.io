@@ -1,0 +1,11 @@
+<script defer src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/js/all.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" crossorigin="anonymous"></script>
+<script>
+$(document).ready(function() {
+  $(".abstract-expand-btn").click(function() {
+    var paper_id = $(this).data("id");
+    $(this).toggleClass("expanded");
+    $("#" + paper_id + " .paper-abstract").toggleClass("hidden");
+  })
+});
+</script>

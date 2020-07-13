@@ -1,5 +1,5 @@
 {% assign paper = include.paper %}
-<div class="box{% if paper.track == 'Encore track' %} encore {% endif %}">
+<div class="box{% if paper.track == 'Encore track' %} encore {% endif %}" id="{{ paper.id }}">
     <div class="paper-title"><strong>{{ paper.title }}
     </strong>
     {% if paper.type == 'Position paper' %}
@@ -14,13 +14,16 @@
     <div class="paper-authors">{{ paper.authors }}</div>
     <div class="paper-links">
         {% if paper.link %}
-        <a href="{{ paper.link }}"><span class="tag paper-link-main">PDF</span></a>
+        <a href="{{ paper.link }}"><span class="tag paper-link-main"><i class="far fa-file-pdf"></i> PDF</span></a>
         {% endif %}
         {% if paper.video %}
-        <a href="{{ paper.video }}"><span class="tag paper-link-video">Video</span></a>
+        <a href="{{ paper.video }}"><span class="tag paper-link-video"><i class="far fa-file-video"></i> Video</span></a>
         {% endif %}
-        {% if paper.poster %}
-        <a href="{{ paper.poster }}"><span class="tag paper-poster-room">Poster room</span></a>
+        {% if paper.poster_link %}
+        <a href="{{ paper.poster_link }}"><span class="tag paper-poster-room">Poster room</span></a>
+        {% endif %}
+        {% if paper.extra_link %}
+        <a href="{{ paper.extra_link }}"><span class="tag paper-link-extra"><i class="far fa-plus-square"></i> {{ paper.extra_type }}</span></a>
         {% endif %}
     </div>
 </div>

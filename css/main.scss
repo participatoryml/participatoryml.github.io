@@ -64,7 +64,6 @@ h1 {
 .tag {
     display: inline-block;
     padding: .2em .4em;
-    margin-right: .4em;
     border-radius: 4px;
     font-size: 66%;
 }
@@ -73,7 +72,15 @@ h1 {
     padding-left: 0px;
 }
 
-.paper-link-main,.paper-link-video {
+.paper-local-link {
+    font-size: 75%;
+    opacity: .1;
+    &:hover {
+        opacity: 1;
+    }
+}
+
+.paper-link-main,.paper-link-video,.paper-link-extra {
     color: #2160c4;
     background: #e3ecfa;
 }
@@ -84,16 +91,16 @@ h1 {
 }
 
 .position-paper-tag {
-    color: #947600;
+    // color: #947600;
     // background: #fff8de;
 }
 
 .case-study-tag {
-    color: #257942;
+    // color: #257942;
     // background: #e6f7ec;
 }
 
 .encore-tag {
-    color: #555;
+   color: #555;
     // background: #eee;
 }

@@ -186,7 +186,7 @@ For any questions, please send us an email to `participatory-ml-organizers` at `
 * Notification: ~~**July 1, 2020**~~
 * Workshop: July 17, 2020
 
-Workshop Schedule:
+Workshop Schedule: (Timezone: Eastern/EDT)
 
 Fri 9:00 a.m. - 9:15 a.m. Opening remarks (Live Talk)
 

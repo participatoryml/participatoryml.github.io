@@ -189,23 +189,31 @@ For any questions, please send us an email to `participatory-ml-organizers` at `
 Workshop Schedule:
 
 Fri 9:00 a.m. - 9:15 a.m. Opening remarks (Live Talk)
-Fri 9:15 a.m. - 9:45 a.m. 
-AI’s Contradiction: King’s Radical Revolution in Values (Live Talk) »
+
+Fri 9:15 a.m. - 9:45 a.m. AI’s Contradiction: King’s Radical Revolution in Values (Live Talk) »
 Tawana Petty
-Fri 9:45 a.m. - 10:15 a.m. What does it mean for ML to be trustworthy? (Talk) »
-Nicolas Papernot
-Fri 10:15 a.m. - 10:45 a.m. Turning the tables on Facebook: How we audit Facebook using their own marketing tools (Talk) »
-Piotr Sapiezynski
+
+Fri 9:45 a.m. - 10:15 a.m. What does it mean for ML to be trustworthy? (Talk) » Nicolas Papernot
+
+Fri 10:15 a.m. - 10:45 a.m. Turning the tables on Facebook: How we audit Facebook using their own marketing tools (Talk) » Piotr Sapiezynski
+
 Fri 10:45 a.m. - 11:30 a.m. Poster Session 1 (Discord)
+
 Fri 11:30 a.m. - 12:15 p.m. Breakout Sessions / Break (Discord)
+
 Fri 12:15 p.m. - 1:00 p.m. Panel 1 (Discussion Panel on Zoom) Deborah Raji, Tawana Petty, Nicolas Papernot, Piotr Sapiezynski, Aleksandra Korolova
+
 Fri 1:00 p.m. - 1:30 p.m. Affected Community Perspectives on Algorithmic Decision-Making in Child Welfare Services (Talk) » Alexandra Chouldechova
+
 Fri 1:30 p.m. - 2:00 p.m. Actionable Recourse in Machine Learning (Talk) » Berk Ustun
+
 Fri 2:00 p.m. - 2:30 p.m. Beyond Fairness and Ethics: Towards Agency and Shifting Power (Talk) »
 Jamelle Watson-Daniels
-Fri 2:30 p.m. - 3:15 p.m. Panel 2 (Discussion Panel on Zoom)
-Deborah Raji, Berk Ustun, Alexandra Chouldechova, Jamelle Watson-Daniels
+
+Fri 2:30 p.m. - 3:15 p.m. Panel 2 (Discussion Panel on Zoom) Deborah Raji, Berk Ustun, Alexandra Chouldechova, Jamelle Watson-Daniels
+
 Fri 3:15 p.m. - 4:00 p.m. Poster Session 2 (Discord)
+
 Fri 4:00 p.m. - 4:45 p.m. Breakout Sessions (Discord)
 
 ## Organizing Committee

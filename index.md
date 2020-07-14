@@ -224,8 +224,8 @@ Fri 4:00 p.m. - 4:45 p.m. Breakout Sessions (Discord)
 * [Smitha Milli](http://smithamilli.com), UC Berkeley
 * [Richard Zemel](https://www.cs.toronto.edu/~zemel), University of Toronto
 
-## Sponsor
+## Funding assistance
 
 We are grateful to [Open Philanthropy](https://www.openphilanthropy.org/)
-for providing funding assistance for the workshop.  We plan to use the funding
-to cover workshop registration fees for participants who need it.
+for providing funding assistance for the workshop. If you want to participate in the workshop and
+require funding, please write us an email to `participatory-ml-organizers` at `lists.mayfirst.org`

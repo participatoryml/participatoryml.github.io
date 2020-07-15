@@ -55,6 +55,15 @@ h1 {
     font-size: 66%;
 }
 
+.poster-list li {
+    list-style-type: none
+}
+
+.poster-id {
+    display: inline-block;
+    width: 2em;
+}
+
 .paper-title strong {
     padding-right: .4em;
 }

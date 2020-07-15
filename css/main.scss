@@ -47,8 +47,16 @@ h1 {
     opacity: 50%;
 }
 
+.poster-list {
+    font-size: 66%;
+}
+
 .paper-title strong {
     padding-right: .4em;
+}
+
+.talk-timespan {
+    font-size: 66%;
 }
 
 .paper-authors {
@@ -108,6 +116,11 @@ a.expanded .paper-link-main {
 .case-study-tag {
     // color: #257942;
     // background: #e6f7ec;
+}
+
+.schedule-tag {
+    // color: #947600;
+    // background: #fff8de;
 }
 
 .encore-tag {

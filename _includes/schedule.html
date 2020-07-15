@@ -1,0 +1,25 @@
+{% assign schedule = include.data %}
+{% for item in schedule %}
+<div class="box" id="schedule-item-{{ forloop.index }}">
+  <div class="paper-title">
+    <strong>{{ item.title }}</strong><span class="tag schedule-tag">{{ item.type }}</span>
+  </div>
+  <div class="talk-timespan"><span class="timespan">{{ item.timespan }}</span>
+    {% if item.speakers %} &middot; {{ item.speakers}} {% endif %}</div>
+  {% if item.abstract %}
+  <div class="paper-links">
+    <a href="#schedule-item-{{ forloop.index }}" class="abstract-expand-btn" data-id="schedule-item-{{ forloop.index }}"><span class="tag paper-link-main"><i class="far fa-file"></i> Abstract</span></a>
+  </div>
+  <div class="paper-abstract hidden">{{ item.abstract }}</div>
+  {% elsif item.type == 'Poster session (Discord)' %}
+  <div class="paper-links">
+    <a href="#poster-sessions"><span class="tag paper-link-poster"><i class="far fa-list-alt"></i> Papers in this session</span></a>
+  </div>
+  {% elsif item.type == 'Breakout discussions (Discord)' %}
+  <div class="paper-links">
+    <a href="#breakout-sessions"><span class="tag paper-link-poster"><i class="far fa-list-alt"></i>
+        Discussions in this session</span></a>
+  </div>
+  {% endif %}
+</div>
+{% endfor %}

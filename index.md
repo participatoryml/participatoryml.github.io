@@ -3,9 +3,12 @@ layout: landing
 title: Participatory Approaches to Machine Learning
 subtitle: ICML 2020 Workshop (July 17)
 ---
+{% assign papers = site.data.papers_2020 %}
 
 Because of the SARS-CoV-2/COVID-19 pandemic, the workshop will take place virtually.
 The exact format will be based on the [ICML conference guidelines](https://icml.cc/Conferences/2020/VirtualICML).
+
+ICML Virtual Site: [icml.cc/virtual/2020/workshop/5720](https://icml.cc/virtual/2020/workshop/5720)
 
 ## Overview
 
@@ -94,16 +97,50 @@ limited to:
     [Irani and Silberman 2013](http://crowdsourcing-class.org/readings/downloads/ethics/turkopticon.pdf);
     [Salehi et al. 2015](https://hci.stanford.edu/publications/2015/dynamo/DynamoCHI2015.pdf)).
 
-## Call for Participation
-We would like to experiment with breakout discussions to encourage group discussions around shared
-topics of interest. Please fill out our [this form](https://forms.gle/JSbGqznGjZRrv1Sd9) if you are
-interested in joining or organizing such a discussion.
+## Schedule
+
+The central part of our workshop is the [livestream on the ICML virtual
+site](https://icml.cc/virtual/2020/workshop/5720). The livestream will broadcast invited talks and
+panels, as well as the latest announcements and possible schedule changes. The interactive
+discussions with other participants---poster and breakout sessions---will happen on our Discord server.
+
+{% include schedule.html data=site.data.schedule_2020 %}
+
+## Poster Sessions
+
+Each contributed paper has its own audio/video channel on our Discord server.
+During the "poster" session, participants can discuss the paper with its authors in the respective channel.
+_Before joining a channel as a participant, please make sure to familiarize yourself with the paper
+and watch the paper's short introduction video._
+
+### Poster Session 1 (<span class="timespan">2:45 PM - 3:30 PM UTC</span>)
+
+{% include poster-list.html session="am" %}
+
+### Poster Session 2 (<span class="timespan">6:30 PM - 7:15 PM UTC</span>)
+
+{% include poster-list.html session="am" %}
+
+## Breakout Sessions
+
+On our Discord server, you can chat with other workshop participants at any time in thematic text or
+audio/video channels; we will add channels during the day if topics up. In addition to this, as an
+experiment, we will hold two thematic discussion sessions guided by facilitators:
+
+### Breakout Session 1 (<span class="timespan">3:30 PM - 4:15 PM UTC</span>)
+
+* **Community Organization**. Facilitated by Seda Gürses.
+* **Stakeholder engagement**. Facilitated by Haiyi Zhu.
+* **Richer Interactive ML and Recourse**. Facilitated by Kristen Vaccaro.
+
+### Breakout Session 2 (<span class="timespan">8:00 PM - 8:45 PM UTC</span>)
+
+* **Community Organization**. Facilitated by David Robinson.
+* **Richer Interactive ML and Recourse**. Facilitated by Sarah Dean.
 
 ## Contributed Papers
 The contributed papers include both novel research papers as well as papers that have already been
 published in other venues (marked as "Encore").
-
-{% assign papers = site.data.papers_2020 %}
 
 ### Qualitative frameworks, methods, and analyses
 
@@ -150,6 +187,11 @@ published in other venues (marked as "Encore").
 * [Aleksandra Korolova](https://www.korolova.com/), University of Southern California
 * [Piotr Sapieżyński](https://www.sapiezynski.com/), Northeastern University
 * [Jamelle Watson-Daniels](https://www.jamellewd.com), [Data for Black Lives](http://d4bl.org/)
+
+## Call for Participation
+We would like to experiment with breakout discussions to encourage group discussions around shared
+topics of interest. Please fill out our [this form](https://forms.gle/JSbGqznGjZRrv1Sd9) if you are
+interested in joining or organizing such a discussion.
 
 ## Call for Papers
 

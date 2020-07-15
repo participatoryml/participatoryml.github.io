@@ -1,11 +1,26 @@
 <script defer src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/js/all.min.js"></script>
+<script defer src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.27.0/moment.min.js"crossorigin="anonymous"></script>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" crossorigin="anonymous"></script>
 <script>
 $(document).ready(function() {
+  // Collapsible abstracts
   $(".abstract-expand-btn").click(function() {
-    var paper_id = $(this).data("id");
+    var paperId = $(this).data("id");
     $(this).toggleClass("expanded");
-    $("#" + paper_id + " .paper-abstract").toggleClass("hidden");
-  })
+    $("#" + paperId + " .paper-abstract").toggleClass("hidden");
+  });
+
+  // Smart times
+  $(".timespan").each(function() {
+    var elem = $(this);
+    var pattern = /(.+) . (.+) UTC/g;
+    var match = pattern.exec(elem.text());
+    var rawStartTime = match[1], rawEndTime = match[2];
+    var startTime = moment.utc(rawStartTime, "hh:mm A").local().format("hh:mm A");
+    var endTime = moment.utc(rawEndTime, "hh:mm A").local().format("hh:mm A");
+    var tz = Intl.DateTimeFormat().resolvedOptions().timeZone;
+    var timespan = startTime + " – " + endTime + " " + tz;
+    elem.text(timespan);
+  });
 });
 </script>

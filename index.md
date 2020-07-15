@@ -135,7 +135,7 @@ experiment, we will hold two thematic discussion sessions guided by facilitators
 
 ### Breakout Session 2 (<span class="timespan">8:00 PM - 8:45 PM UTC</span>)
 
-* **Community Organization**. Facilitated by David Robinson.
+* **Community Organization and ML Systems**. Facilitated by David Robinson.
 * **Interactive ML**. Facilitated by Sarah Dean.
 
 ## Contributed Papers

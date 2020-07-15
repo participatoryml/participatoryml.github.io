@@ -119,7 +119,7 @@ and watch the paper's short introduction video._
 
 ### Poster Session 2 (<span class="timespan">6:30 PM - 7:15 PM UTC</span>)
 
-{% include poster-list.html session="am" %}
+{% include poster-list.html session="pm" %}
 
 ## Breakout Sessions
 

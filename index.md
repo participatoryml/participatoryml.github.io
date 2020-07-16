@@ -125,7 +125,7 @@ and watch the paper's short introduction video._
 
 On our Discord server, you can chat with other workshop participants at any time in thematic text or
 audio/video channels; we will add channels during the day if topics come up. In addition to this, as an
-experiment, we will thematic discussion sessions guided by facilitators:
+experiment, we will have thematic discussion sessions guided by facilitators:
 
 ### Breakout Session 1 (<span class="timespan">3:30 PM - 4:15 PM UTC</span>)
 

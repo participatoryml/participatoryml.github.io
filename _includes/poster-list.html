@@ -2,6 +2,6 @@
 <ul class="poster-list">
 {% assign session_papers = papers | where: "poster_session_assigned", session %}
 {% for paper in session_papers %}
-<li><span class="poster-id">#{{ paper.id }}</span> <a href="#{{ paper.id }}">{{ paper.title }}</a></li>
+  <li><span class="poster-id">#{{ paper.id }}</span> <a href="#{{ paper.id }}">{{ paper.title }}</a></li>
 {% endfor %}
 </ul>

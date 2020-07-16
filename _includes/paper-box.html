@@ -1,35 +1,35 @@
 {% assign paper = include.paper %}
 <div class="box{% if paper.track == 'Encore track' %} encore {% endif %}" id="{{ paper.id }}">
-    <div class="paper-title"><strong>{{ paper.title }}
-    </strong>
-    {% if paper.type == 'Position paper' %}
-    <span class="tag header-tag position-paper-tag">Position paper</span>
-    {% elsif paper.type == 'Case study' %}
-    <span class="tag header-tag case-study-tag">Case study</span>
+  <div class="paper-title"><strong>{{ paper.title }}
+  </strong>
+  {% if paper.type == 'Position paper' %}
+  <span class="tag header-tag position-paper-tag">Position paper</span>
+  {% elsif paper.type == 'Case study' %}
+  <span class="tag header-tag case-study-tag">Case study</span>
+  {% endif %}
+  {% if paper.track == 'Encore track' %}
+  <span class="tag header-tag encore-tag">Encore{% if paper.venue %}: {{ paper.venue }}{% endif %}</span>
+  {% endif %}
+  </div>
+  <div class="paper-authors">{{ paper.authors }}</div>
+  <div class="paper-links">
+    {% if paper.abstract %}
+    <a href="#{{ paper.id }}" class="abstract-expand-btn" data-id="{{ paper.id }}"><span class="tag paper-link-main"><i class="far fa-file"></i> Abstract</span></a>
     {% endif %}
-    {% if paper.track == 'Encore track' %}
-    <span class="tag header-tag encore-tag">Encore{% if paper.venue %}: {{ paper.venue }}{% endif %}</span>
+    {% if paper.link %}
+    <a href="{{ paper.link }}"><span class="tag paper-link-main"><i class="far fa-file-pdf"></i> PDF</span></a>
     {% endif %}
-    </div>
-    <div class="paper-authors">{{ paper.authors }}</div>
-    <div class="paper-links">
-        {% if paper.abstract %}
-        <a href="#{{ paper.id }}" class="abstract-expand-btn" data-id="{{ paper.id }}"><span class="tag paper-link-main"><i class="far fa-file"></i> Abstract</span></a>
-        {% endif %}
-        {% if paper.link %}
-        <a href="{{ paper.link }}"><span class="tag paper-link-main"><i class="far fa-file-pdf"></i> PDF</span></a>
-        {% endif %}
-        {% if paper.video %}
-        <a href="{{ paper.video }}"><span class="tag paper-link-video"><i class="far fa-file-video"></i> Video</span></a>
-        {% endif %}
-        {% if paper.extra_link %}
-        <a href="{{ paper.extra_link }}"><span class="tag paper-link-extra"><i class="far fa-plus-square"></i> {{ paper.extra_type }}</span></a>
-        {% endif %}
-        {% if paper.poster_session_assigned %}
-        <a href="#poster-sessions"><span class="tag paper-link-poster"><i class="far
-              fa-comments"></i> Poster session {% if paper.poster_session_assigned == 'am' %}1{%
-            else %}2{% endif %} — #{{ paper.id }}</span></a>
-        {% endif %}
-    </div>
-    <div class="paper-abstract hidden">{{ paper.abstract }}</div>
+    {% if paper.video %}
+    <a href="{{ paper.video }}"><span class="tag paper-link-video"><i class="far fa-file-video"></i> Video</span></a>
+    {% endif %}
+    {% if paper.extra_link %}
+    <a href="{{ paper.extra_link }}"><span class="tag paper-link-extra"><i class="far fa-plus-square"></i> {{ paper.extra_type }}</span></a>
+    {% endif %}
+    {% if paper.poster_session_assigned %}
+    <a href="#poster-sessions"><span class="tag paper-link-poster"><i class="far
+          fa-comments"></i> Poster session {% if paper.poster_session_assigned == 'am' %}1{%
+        else %}2{% endif %} — #{{ paper.id }}</span></a>
+    {% endif %}
+  </div>
+  <div class="paper-abstract hidden">{{ paper.abstract }}</div>
 </div>

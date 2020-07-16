@@ -52,6 +52,7 @@ h1 {
 }
 
 .poster-list {
+    padding-left: 0;
     font-size: 66%;
 }
 
@@ -82,7 +83,7 @@ h1 {
 }
 
 .paper-abstract {
-    padding-top: 1em;
+    margin-top: 1em;
     font-size: 66%;
     height: auto;
     transition: all 0.3s ease-out;
@@ -91,6 +92,7 @@ h1 {
 }
 
 .hidden {
+    margin-top: 0;
     max-height: 0;
     opacity: 0;
 }
@@ -132,6 +134,7 @@ a.expanded .paper-link-main {
 }
 
 .schedule-tag {
+    padding: 0;
     // color: #947600;
     // background: #fff8de;
 }

@@ -129,14 +129,14 @@ experiment, we will thematic discussion sessions guided by facilitators:
 
 ### Breakout Session 1 (<span class="timespan">3:30 PM - 4:15 PM UTC</span>)
 
-* **Community Organization and ML Systems.** Facilitated by Seda Gürses.
-* **Stakeholder Engagement in System Design**. Facilitated by Haiyi Zhu.
-* **Recourse**. Facilitated by Kristen Vaccaro.
+* **Community Organization and ML Systems.** Facilitated by Seda Gürses (TU Delft)
+* **Stakeholder Engagement in System Design**. Facilitated by Haiyi Zhu (CMU)
+* **Recourse**. Facilitated by Kristen Vaccaro (UIUC)
 
 ### Breakout Session 2 (<span class="timespan">8:00 PM - 8:45 PM UTC</span>)
 
-* **Community Organization and ML Systems**. Facilitated by David Robinson.
-* **Richer Interactive ML**. Facilitated by Sarah Dean.
+* **Community Organization and ML Systems**. Facilitated by David Robinson (Cornell)
+* **Richer Interactive ML**. Facilitated by Sarah Dean (Berkeley)
 
 ## Contributed Papers
 The contributed papers include both novel research papers as well as papers that have already been

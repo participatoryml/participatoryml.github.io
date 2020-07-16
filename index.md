@@ -8,7 +8,13 @@ subtitle: ICML 2020 Workshop (July 17)
 Because of the SARS-CoV-2/COVID-19 pandemic, the workshop will take place virtually.
 The exact format will be based on the [ICML conference guidelines](https://icml.cc/Conferences/2020/VirtualICML).
 
-ICML Virtual Site: [icml.cc/virtual/2020/workshop/5720](https://icml.cc/virtual/2020/workshop/5720)
+<div class="box">
+
+ICML Virtual Site: <a href="https://icml.cc/virtual/2020/workshop/5720">icml.cc/virtual/2020/workshop/5720</a><br>
+Discord server: <a href="https://discord.gg/KSAwXKs">discord.gg/KSAwXKs</a><br>
+Twitter hashtag: <a href="https://twitter.com/search?q=%23PAML2020f=live">#PAML2020</a>
+
+</div>
 
 ## Overview
 
@@ -102,7 +108,8 @@ limited to:
 The central part of our workshop is the [livestream on the ICML virtual
 site](https://icml.cc/virtual/2020/workshop/5720). The livestream will broadcast invited talks and
 panels, as well as the latest announcements and possible schedule changes. The interactive
-discussions with other participants---poster and breakout sessions---will happen on our Discord server.
+discussions with other participants---poster and breakout sessions---will happen on our [Discord
+server](https://discord.gg/KSAwXKs).
 
 {% include schedule.html data=site.data.schedule_2020 %}
 

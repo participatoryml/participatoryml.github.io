@@ -14,6 +14,8 @@ ICML Virtual Site: <a href="https://icml.cc/virtual/2020/workshop/5720">icml.cc/
 Discord server: <a href="https://discord.gg/KSAwXKs">discord.gg/KSAwXKs</a><br>
 Twitter hashtag: <a href="https://twitter.com/search?q=%23PAML2020f=live">#PAML2020</a>
 
+**Please participate in our poster and breakout sessions on our Discord server**
+
 </div>
 
 ## Overview

@@ -13,7 +13,6 @@ The exact format will be based on the [ICML conference guidelines](https://icml.
 ICML Virtual Site: <a href="https://icml.cc/virtual/2020/workshop/5720">icml.cc/virtual/2020/workshop/5720</a><br>
 Discord server: <a href="https://discord.gg/KSAwXKs">https://discord.gg/KSAwXKs</a><br>
 Twitter hashtag: <a href="https://twitter.com/search?q=%23PAML2020&f=live">#PAML2020</a><br>
-<strong>Please participate in our poster and breakout sessions on our Discord server</strong>
 
 </div>
 

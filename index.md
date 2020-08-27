@@ -5,14 +5,26 @@ subtitle: ICML 2020 Workshop (July 17)
 ---
 {% assign papers = site.data.papers_2020 %}
 
-Because of the SARS-CoV-2/COVID-19 pandemic, the workshop will take place virtually.
-The exact format will be based on the [ICML conference guidelines](https://icml.cc/Conferences/2020/VirtualICML).
-
 <div class="box">
 
 ICML Virtual Site: <a href="https://icml.cc/virtual/2020/workshop/5720">icml.cc/virtual/2020/workshop/5720</a><br>
 Discord server: <a href="https://discord.gg/KSAwXKs">https://discord.gg/KSAwXKs</a><br>
 Twitter hashtag: <a href="https://twitter.com/search?q=%23PAML2020&f=live">#PAML2020</a><br>
+Citing the workshop:
+<pre style="font-size: 75%">
+@misc{paml,
+    author={Kulynych, Bogdan and
+            Madras, David and
+            Milli, Smitha and
+            Raji, Inioluwa Deborah and
+            Zhou, Angela, and
+            Zemel, Richard},
+    title={Participatory Approaches to Machine Learning},
+    howpublished={International Conference on Machine Learning Workshop},
+    month=July,
+    year=2020
+}
+</pre>
 
 </div>
 
